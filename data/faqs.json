@@ -1,0 +1,1486 @@
+[
+  {
+    "id": "company_001",
+    "category": "Company",
+    "intent": "about_company",
+    "question": "What is Nexora AI?",
+    "variations": [
+      "Tell me about Nexora AI",
+      "What does Nexora do?",
+      "What is Nexora",
+      "Can you explain Nexora AI?"
+    ],
+    "answer": "Nexora AI is a fictional AI software company created for this demonstration. Its platform provides AI-powered productivity, automation, analytics, and customer-support solutions for individuals and businesses.",
+    "keywords": [
+      "company",
+      "nexora",
+      "about",
+      "ai",
+      "platform"
+    ],
+    "related_questions": [
+      "What products does Nexora AI offer?",
+      "Who can use Nexora AI?",
+      "Does Nexora AI offer enterprise solutions?"
+    ]
+  },
+  {
+    "id": "company_002",
+    "category": "Company",
+    "intent": "target_users",
+    "question": "Who can use Nexora AI?",
+    "variations": [
+      "Who is Nexora AI for?",
+      "Who can use your platform?",
+      "Is Nexora AI for businesses?",
+      "Can individuals use Nexora AI?"
+    ],
+    "answer": "Nexora AI is designed for individuals, startups, small businesses, growing teams, and enterprise organizations that want to use AI for productivity, automation, analytics, and customer support.",
+    "keywords": [
+      "users",
+      "business",
+      "individual",
+      "teams",
+      "enterprise"
+    ],
+    "related_questions": [
+      "What products does Nexora AI offer?",
+      "Do you offer enterprise plans?",
+      "How do I get started?"
+    ]
+  },
+  {
+    "id": "company_003",
+    "category": "Company",
+    "intent": "products",
+    "question": "What products does Nexora AI offer?",
+    "variations": [
+      "What products do you have?",
+      "What services does Nexora provide?",
+      "What can Nexora AI do?",
+      "Tell me about your products"
+    ],
+    "answer": "Nexora AI provides AI productivity tools, workflow automation, business analytics, and customer-support solutions. Product availability depends on the selected plan.",
+    "keywords": [
+      "products",
+      "services",
+      "features",
+      "solutions"
+    ],
+    "related_questions": [
+      "What is included in the Pro plan?",
+      "Do you offer enterprise solutions?",
+      "How does Nexora AI work?"
+    ]
+  },
+  {
+    "id": "company_004",
+    "category": "Company",
+    "intent": "company_purpose",
+    "question": "What is the purpose of Nexora AI?",
+    "variations": [
+      "Why was Nexora AI created?",
+      "What problem does Nexora solve?",
+      "What is Nexora designed for?",
+      "What does Nexora help with?"
+    ],
+    "answer": "Nexora AI is designed to demonstrate how AI-powered software can help users improve productivity, automate workflows, understand business information, and provide customer support.",
+    "keywords": [
+      "purpose",
+      "mission",
+      "problem",
+      "productivity",
+      "automation"
+    ],
+    "related_questions": [
+      "Who can use Nexora AI?",
+      "What products does Nexora AI offer?",
+      "How does Nexora AI work?"
+    ]
+  },
+  {
+    "id": "company_005",
+    "category": "Company",
+    "intent": "business_size",
+    "question": "Is Nexora AI suitable for small businesses?",
+    "variations": [
+      "Can small businesses use Nexora?",
+      "Is Nexora good for startups?",
+      "Can startups use Nexora AI?",
+      "Does Nexora support small teams?"
+    ],
+    "answer": "Yes. The demonstration platform is designed to support individuals, startups, small businesses, growing teams, and larger organizations through different capabilities and plans.",
+    "keywords": [
+      "small business",
+      "startup",
+      "teams",
+      "business",
+      "organization"
+    ],
+    "related_questions": [
+      "Do you offer enterprise solutions?",
+      "What pricing plans are available?",
+      "Can multiple team members use the platform?"
+    ]
+  },
+  {
+    "id": "product_001",
+    "category": "Products",
+    "intent": "how_platform_works",
+    "question": "How does Nexora AI work?",
+    "variations": [
+      "How does the platform work?",
+      "How does Nexora work?",
+      "Explain how Nexora AI works",
+      "What happens when I use Nexora?"
+    ],
+    "answer": "Nexora AI provides AI-powered tools through a web-based platform. Users interact with the available tools through their account, while the platform processes requests and returns results according to the selected feature and plan.",
+    "keywords": [
+      "work",
+      "platform",
+      "ai",
+      "process",
+      "features"
+    ],
+    "related_questions": [
+      "What products does Nexora AI offer?",
+      "How do I get started?",
+      "Do you offer enterprise solutions?"
+    ]
+  },
+  {
+    "id": "product_002",
+    "category": "Products",
+    "intent": "ai_features",
+    "question": "What AI features are available?",
+    "variations": [
+      "What AI capabilities do you provide?",
+      "Which AI features can I use?",
+      "What can your AI tools do?",
+      "Tell me about the AI features"
+    ],
+    "answer": "The demonstration platform includes AI-assisted productivity, automation, analytics, and customer-support capabilities. Specific functionality depends on the selected product and plan.",
+    "keywords": [
+      "ai",
+      "features",
+      "capabilities",
+      "automation",
+      "analytics"
+    ],
+    "related_questions": [
+      "What products does Nexora AI offer?",
+      "How does Nexora AI work?",
+      "What plans are available?"
+    ]
+  },
+  {
+    "id": "product_003",
+    "category": "Products",
+    "intent": "integration",
+    "question": "Does Nexora AI support integrations?",
+    "variations": [
+      "Can I integrate Nexora with other tools?",
+      "What integrations are available?",
+      "Can Nexora connect with other applications?",
+      "Does the platform support integrations?"
+    ],
+    "answer": "Integration capabilities can vary by product and plan. Supported integrations, APIs, and automation options should be checked in the relevant product documentation.",
+    "keywords": [
+      "integration",
+      "api",
+      "connect",
+      "applications",
+      "tools"
+    ],
+    "related_questions": [
+      "What products does Nexora AI offer?",
+      "Do you offer enterprise solutions?",
+      "How does Nexora AI work?"
+    ]
+  },
+  {
+    "id": "product_004",
+    "category": "Products",
+    "intent": "automation",
+    "question": "Can Nexora AI automate tasks?",
+    "variations": [
+      "Can I automate workflows?",
+      "Does Nexora support automation?",
+      "Can Nexora automate repetitive work?",
+      "How can Nexora help automate tasks?"
+    ],
+    "answer": "Yes. The demonstration platform includes workflow automation capabilities intended to help users automate supported repetitive processes. Available automation features depend on the selected product and plan.",
+    "keywords": [
+      "automation",
+      "workflow",
+      "tasks",
+      "repetitive",
+      "process"
+    ],
+    "related_questions": [
+      "Does Nexora AI support integrations?",
+      "What AI features are available?",
+      "Do you offer enterprise solutions?"
+    ]
+  },
+  {
+    "id": "product_005",
+    "category": "Products",
+    "intent": "analytics",
+    "question": "Does Nexora AI provide analytics?",
+    "variations": [
+      "Can Nexora analyze business data?",
+      "Does Nexora have analytics tools?",
+      "Can I view analytics?",
+      "What analytics features are available?"
+    ],
+    "answer": "The demonstration platform includes business analytics capabilities. The specific reports, metrics, and data features available depend on the selected product and plan.",
+    "keywords": [
+      "analytics",
+      "data",
+      "reports",
+      "metrics",
+      "business"
+    ],
+    "related_questions": [
+      "What AI features are available?",
+      "What products does Nexora AI offer?",
+      "Do you offer enterprise solutions?"
+    ]
+  },
+  {
+    "id": "pricing_001",
+    "category": "Pricing",
+    "intent": "pricing_plans",
+    "question": "What pricing plans are available?",
+    "variations": [
+      "How much does Nexora AI cost?",
+      "What plans do you offer?",
+      "Tell me about your pricing",
+      "How much is the subscription?"
+    ],
+    "answer": "The demonstration version of Nexora AI uses three example plans: Free, Pro, and Enterprise. The Free plan provides basic access, Pro provides additional AI capabilities and usage, and Enterprise is designed for organizations with advanced requirements.",
+    "keywords": [
+      "pricing",
+      "plans",
+      "cost",
+      "subscription",
+      "price"
+    ],
+    "related_questions": [
+      "Is there a free plan?",
+      "What is included in Pro?",
+      "Do you offer enterprise pricing?"
+    ]
+  },
+  {
+    "id": "pricing_002",
+    "category": "Pricing",
+    "intent": "free_plan",
+    "question": "Do you offer a free plan?",
+    "variations": [
+      "Can I use Nexora AI for free?",
+      "Is there a free version?",
+      "Do you have a free tier?",
+      "Can I try Nexora AI without paying?"
+    ],
+    "answer": "Yes. The demonstration platform includes a Free plan that provides access to core features with usage limitations. Paid plans provide additional capabilities and higher usage limits.",
+    "keywords": [
+      "free",
+      "trial",
+      "free plan",
+      "tier"
+    ],
+    "related_questions": [
+      "What pricing plans are available?",
+      "Can I upgrade later?",
+      "What is included in Pro?"
+    ]
+  },
+  {
+    "id": "pricing_003",
+    "category": "Pricing",
+    "intent": "upgrade_plan",
+    "question": "Can I upgrade my plan later?",
+    "variations": [
+      "Can I upgrade after creating an account?",
+      "How do I upgrade my subscription?",
+      "Can I change my plan?",
+      "Can I move from Free to Pro?"
+    ],
+    "answer": "Yes. Users can move from a lower plan to a higher plan through the account billing section. The available upgrade options depend on the account and subscription configuration.",
+    "keywords": [
+      "upgrade",
+      "subscription",
+      "change",
+      "plan"
+    ],
+    "related_questions": [
+      "How do I update billing information?",
+      "Can I cancel my subscription?",
+      "What pricing plans are available?"
+    ]
+  },
+  {
+    "id": "pricing_004",
+    "category": "Pricing",
+    "intent": "cancel_subscription",
+    "question": "Can I cancel my subscription?",
+    "variations": [
+      "How do I cancel my plan?",
+      "Can I stop my subscription?",
+      "How can I cancel billing?",
+      "I want to cancel my subscription"
+    ],
+    "answer": "Yes. A subscription can be cancelled from the account billing settings. Users should review the cancellation information shown in their account before confirming the change.",
+    "keywords": [
+      "cancel",
+      "subscription",
+      "billing",
+      "stop"
+    ],
+    "related_questions": [
+      "How do I update billing information?",
+      "What pricing plans are available?",
+      "Can I upgrade my plan?"
+    ]
+  },
+  {
+    "id": "pricing_005",
+    "category": "Pricing",
+    "intent": "pro_plan",
+    "question": "What is included in the Pro plan?",
+    "variations": [
+      "What do I get with Pro?",
+      "What features are in Pro?",
+      "Tell me about the Pro subscription",
+      "What does the Pro plan include?"
+    ],
+    "answer": "The demonstration Pro plan provides additional AI capabilities and higher usage than the Free plan. Exact features and limits depend on the demonstration configuration.",
+    "keywords": [
+      "pro",
+      "plan",
+      "features",
+      "usage",
+      "subscription"
+    ],
+    "related_questions": [
+      "What pricing plans are available?",
+      "Can I upgrade my plan later?",
+      "Do you offer a free plan?"
+    ]
+  },
+  {
+    "id": "account_001",
+    "category": "Account",
+    "intent": "create_account",
+    "question": "How do I create an account?",
+    "variations": [
+      "How can I sign up?",
+      "How do I register?",
+      "How do I make a Nexora account?",
+      "Where can I create an account?"
+    ],
+    "answer": "Select the Create Account option, provide your required account information, create a secure password, and complete the email verification process.",
+    "keywords": [
+      "account",
+      "signup",
+      "register",
+      "create",
+      "login"
+    ],
+    "related_questions": [
+      "How do I reset my password?",
+      "How do I verify my email?",
+      "How do I delete my account?"
+    ]
+  },
+  {
+    "id": "account_002",
+    "category": "Account",
+    "intent": "password_reset",
+    "question": "How do I reset my password?",
+    "variations": [
+      "I forgot my password",
+      "How can I change my password?",
+      "I cannot remember my password",
+      "Where can I reset my password?"
+    ],
+    "answer": "Use the Forgot Password option on the sign-in page and follow the instructions sent to your registered email address. Choose a strong and unique replacement password.",
+    "keywords": [
+      "password",
+      "reset",
+      "forgot",
+      "login"
+    ],
+    "related_questions": [
+      "How do I create an account?",
+      "How do I verify my email?",
+      "How do I contact support?"
+    ]
+  },
+  {
+    "id": "account_003",
+    "category": "Account",
+    "intent": "email_verification",
+    "question": "How do I verify my email?",
+    "variations": [
+      "Why do I need to verify my email?",
+      "Where is the verification email?",
+      "How can I verify my account?",
+      "My verification email did not arrive"
+    ],
+    "answer": "After registration, check the inbox associated with your account and open the verification message. If it is not visible, check the spam or junk folder and request another verification email if necessary.",
+    "keywords": [
+      "email",
+      "verification",
+      "verify",
+      "account"
+    ],
+    "related_questions": [
+      "How do I create an account?",
+      "I forgot my password",
+      "How do I contact support?"
+    ]
+  },
+  {
+    "id": "account_004",
+    "category": "Account",
+    "intent": "delete_account",
+    "question": "How do I delete my account?",
+    "variations": [
+      "Can I delete my account?",
+      "How can I remove my account?",
+      "I want to close my account",
+      "How do I permanently delete my account?"
+    ],
+    "answer": "Account deletion can be requested through the account settings or support process. Before deletion, review any information that may be permanently removed.",
+    "keywords": [
+      "delete",
+      "account",
+      "close",
+      "remove"
+    ],
+    "related_questions": [
+      "How do I create an account?",
+      "How do I contact support?",
+      "How do I update my profile?"
+    ]
+  },
+  {
+    "id": "account_005",
+    "category": "Account",
+    "intent": "profile_update",
+    "question": "How do I update my profile?",
+    "variations": [
+      "Can I change my account information?",
+      "How do I edit my profile?",
+      "Where can I update my details?",
+      "Can I change my account details?"
+    ],
+    "answer": "Open your account or profile settings and update the information that is available for editing. Save the changes before leaving the settings page.",
+    "keywords": [
+      "profile",
+      "account",
+      "update",
+      "edit",
+      "details"
+    ],
+    "related_questions": [
+      "How do I create an account?",
+      "How do I reset my password?",
+      "How do I delete my account?"
+    ]
+  },
+  {
+    "id": "security_001",
+    "category": "Security",
+    "intent": "data_security",
+    "question": "Is my data secure?",
+    "variations": [
+      "How secure is my data?",
+      "Do you protect customer data?",
+      "Is my information safe?",
+      "How do you protect user information?"
+    ],
+    "answer": "The demonstration platform is designed around common security practices such as authenticated access, controlled permissions, secure credential handling, and restricted access to account information.",
+    "keywords": [
+      "security",
+      "data",
+      "privacy",
+      "safe",
+      "protection"
+    ],
+    "related_questions": [
+      "How is my personal information handled?",
+      "Do you support two-factor authentication?",
+      "Can I delete my account?"
+    ]
+  },
+  {
+    "id": "security_002",
+    "category": "Security",
+    "intent": "two_factor_authentication",
+    "question": "Do you support two-factor authentication?",
+    "variations": [
+      "Is 2FA available?",
+      "Can I enable two factor authentication?",
+      "Do you have two step verification?",
+      "Can I secure my account with 2FA?"
+    ],
+    "answer": "Two-factor authentication can be provided as an additional account-security feature. When enabled, users must provide an additional verification factor during supported sign-in flows.",
+    "keywords": [
+      "2fa",
+      "two factor",
+      "authentication",
+      "security"
+    ],
+    "related_questions": [
+      "Is my data secure?",
+      "How do I reset my password?",
+      "How do I create an account?"
+    ]
+  },
+  {
+    "id": "security_003",
+    "category": "Security",
+    "intent": "privacy",
+    "question": "How is my personal information handled?",
+    "variations": [
+      "What happens to my personal data?",
+      "How do you handle my information?",
+      "What is your privacy approach?",
+      "How is user information handled?"
+    ],
+    "answer": "The demonstration platform treats personal information as sensitive account data and limits its use to supported account and service functions. Users should review the applicable privacy documentation before providing sensitive information.",
+    "keywords": [
+      "privacy",
+      "personal data",
+      "information",
+      "user data"
+    ],
+    "related_questions": [
+      "Is my data secure?",
+      "Can I delete my account?",
+      "Do you support two-factor authentication?"
+    ]
+  },
+  {
+    "id": "security_004",
+    "category": "Security",
+    "intent": "secure_password",
+    "question": "How can I keep my account secure?",
+    "variations": [
+      "How do I protect my account?",
+      "What can I do to secure my login?",
+      "How can I improve account security?",
+      "How do I make my account safer?"
+    ],
+    "answer": "Use a strong unique password, avoid sharing credentials, enable available additional authentication features, and contact support if you notice suspicious account activity.",
+    "keywords": [
+      "security",
+      "password",
+      "account",
+      "protection",
+      "login"
+    ],
+    "related_questions": [
+      "Do you support two-factor authentication?",
+      "How do I reset my password?",
+      "Is my data secure?"
+    ]
+  },
+  {
+    "id": "security_005",
+    "category": "Security",
+    "intent": "suspicious_activity",
+    "question": "What should I do if I notice suspicious account activity?",
+    "variations": [
+      "I think someone accessed my account",
+      "My account looks compromised",
+      "What if someone logged into my account?",
+      "I noticed unusual activity"
+    ],
+    "answer": "Change your password immediately, secure any additional authentication methods available, review recent account activity, and contact support if the activity continues or you cannot regain control.",
+    "keywords": [
+      "suspicious",
+      "compromised",
+      "security",
+      "account",
+      "activity"
+    ],
+    "related_questions": [
+      "How can I keep my account secure?",
+      "How do I reset my password?",
+      "How can I contact support?"
+    ]
+  },
+  {
+    "id": "billing_001",
+    "category": "Billing",
+    "intent": "update_payment",
+    "question": "How do I update my billing information?",
+    "variations": [
+      "How can I change my payment method?",
+      "Where can I update billing?",
+      "How do I change my card?",
+      "How can I update payment details?"
+    ],
+    "answer": "Open the Billing or Subscription section of your account settings and select the available payment-method or billing-information option.",
+    "keywords": [
+      "billing",
+      "payment",
+      "card",
+      "invoice"
+    ],
+    "related_questions": [
+      "Can I cancel my subscription?",
+      "What pricing plans are available?",
+      "Where can I find invoices?"
+    ]
+  },
+  {
+    "id": "billing_002",
+    "category": "Billing",
+    "intent": "invoice",
+    "question": "Where can I find my invoices?",
+    "variations": [
+      "How can I download an invoice?",
+      "Where are my billing invoices?",
+      "Can I get my payment receipt?",
+      "Where can I see billing history?"
+    ],
+    "answer": "Invoices and billing history can be accessed through the Billing section of the account dashboard when available for the selected plan.",
+    "keywords": [
+      "invoice",
+      "receipt",
+      "billing",
+      "payment",
+      "history"
+    ],
+    "related_questions": [
+      "How do I update my billing information?",
+      "Can I cancel my subscription?",
+      "What pricing plans are available?"
+    ]
+  },
+  {
+    "id": "billing_003",
+    "category": "Billing",
+    "intent": "payment_failed",
+    "question": "What should I do if my payment fails?",
+    "variations": [
+      "Why did my payment fail?",
+      "My payment was declined",
+      "What if my card payment does not work?",
+      "How do I fix a failed payment?"
+    ],
+    "answer": "Check that your payment information is correct and that the payment method is active. If the issue continues, use another supported payment method or contact your payment provider and support.",
+    "keywords": [
+      "payment",
+      "failed",
+      "declined",
+      "card",
+      "billing"
+    ],
+    "related_questions": [
+      "How do I update my billing information?",
+      "Where can I find my invoices?",
+      "How can I contact support?"
+    ]
+  },
+  {
+    "id": "billing_004",
+    "category": "Billing",
+    "intent": "billing_history",
+    "question": "Can I view my billing history?",
+    "variations": [
+      "Where can I see previous payments?",
+      "Can I check my payment history?",
+      "How do I view billing records?",
+      "Where are past transactions?"
+    ],
+    "answer": "Available billing records and payment history can be reviewed through the Billing section of the account dashboard.",
+    "keywords": [
+      "billing",
+      "history",
+      "payments",
+      "transactions",
+      "records"
+    ],
+    "related_questions": [
+      "Where can I find my invoices?",
+      "How do I update my billing information?",
+      "Can I cancel my subscription?"
+    ]
+  },
+  {
+    "id": "billing_005",
+    "category": "Billing",
+    "intent": "billing_cycle",
+    "question": "How does subscription billing work?",
+    "variations": [
+      "When am I billed?",
+      "How often do I pay?",
+      "How does recurring billing work?",
+      "When is my subscription charged?"
+    ],
+    "answer": "Subscription billing depends on the selected plan and its configured billing cycle. The applicable billing details should be reviewed in the account subscription section before completing a purchase.",
+    "keywords": [
+      "billing",
+      "subscription",
+      "cycle",
+      "charge",
+      "payment"
+    ],
+    "related_questions": [
+      "What pricing plans are available?",
+      "Can I cancel my subscription?",
+      "Where can I find my invoices?"
+    ]
+  },
+  {
+    "id": "support_001",
+    "category": "Support",
+    "intent": "contact_support",
+    "question": "How can I contact support?",
+    "variations": [
+      "How do I contact customer support?",
+      "Where can I get help?",
+      "I need technical support",
+      "How can I talk to support?"
+    ],
+    "answer": "For this demonstration, users can contact the support team through the Help or Support section of the application. When reporting an issue, include a clear description and relevant error details.",
+    "keywords": [
+      "support",
+      "help",
+      "contact",
+      "customer service"
+    ],
+    "related_questions": [
+      "My application is not working",
+      "How long does support take?",
+      "How do I report a bug?"
+    ]
+  },
+  {
+    "id": "support_002",
+    "category": "Support",
+    "intent": "technical_problem",
+    "question": "My application is not working. What should I do?",
+    "variations": [
+      "The app is not working",
+      "I am facing a technical issue",
+      "Why is the application not working?",
+      "I found an error in the application"
+    ],
+    "answer": "First check your internet connection and restart the application. If the problem continues, record the error message, operating system, application version, and steps that reproduce the issue before contacting support.",
+    "keywords": [
+      "error",
+      "bug",
+      "technical",
+      "application",
+      "not working"
+    ],
+    "related_questions": [
+      "How can I contact support?",
+      "How do I report a bug?",
+      "What information should I provide to support?"
+    ]
+  },
+  {
+    "id": "support_003",
+    "category": "Support",
+    "intent": "bug_report",
+    "question": "How do I report a bug?",
+    "variations": [
+      "Where can I report a bug?",
+      "How do I report an issue?",
+      "I found a bug",
+      "How can I submit a technical issue?"
+    ],
+    "answer": "Use the application's support or issue-reporting channel. Include the problem description, steps to reproduce it, expected behavior, actual behavior, and any relevant error messages.",
+    "keywords": [
+      "bug",
+      "report",
+      "issue",
+      "error",
+      "problem"
+    ],
+    "related_questions": [
+      "My application is not working",
+      "How can I contact support?",
+      "What information should I provide?"
+    ]
+  },
+  {
+    "id": "support_004",
+    "category": "Support",
+    "intent": "support_response",
+    "question": "How long does support take to respond?",
+    "variations": [
+      "When will support reply?",
+      "How quickly does support respond?",
+      "What is the support response time?",
+      "How long will I wait for support?"
+    ],
+    "answer": "Support response time can depend on the type and priority of the request. For faster troubleshooting, include complete issue details and relevant error information in the initial request.",
+    "keywords": [
+      "support",
+      "response",
+      "time",
+      "reply",
+      "help"
+    ],
+    "related_questions": [
+      "How can I contact support?",
+      "How do I report a bug?",
+      "My application is not working."
+    ]
+  },
+  {
+    "id": "support_005",
+    "category": "Support",
+    "intent": "support_information",
+    "question": "What information should I provide when contacting support?",
+    "variations": [
+      "What details should I send to support?",
+      "What should I include in a support request?",
+      "How do I explain a technical issue?",
+      "What information helps support?"
+    ],
+    "answer": "Provide a clear description of the problem, steps to reproduce it, expected and actual behavior, relevant error messages, application version, and operating system when applicable.",
+    "keywords": [
+      "support",
+      "information",
+      "error",
+      "details",
+      "troubleshooting"
+    ],
+    "related_questions": [
+      "How do I report a bug?",
+      "My application is not working.",
+      "How can I contact support?"
+    ]
+  },
+  {
+    "id": "getting_started_001",
+    "category": "Getting Started",
+    "intent": "getting_started",
+    "question": "How do I get started with Nexora AI?",
+    "variations": [
+      "How do I start using Nexora?",
+      "What should I do first?",
+      "How can I get started?",
+      "I am new to Nexora AI"
+    ],
+    "answer": "Create an account, complete email verification, sign in, and explore the available dashboard features. You can begin with the core tools available under your current plan.",
+    "keywords": [
+      "start",
+      "getting started",
+      "begin",
+      "new user"
+    ],
+    "related_questions": [
+      "How do I create an account?",
+      "What products does Nexora AI offer?",
+      "Do you offer a free plan?"
+    ]
+  },
+  {
+    "id": "getting_started_002",
+    "category": "Getting Started",
+    "intent": "first_steps",
+    "question": "What should I do after creating an account?",
+    "variations": [
+      "What are the first steps?",
+      "What should I do after signup?",
+      "I created an account. What next?",
+      "What do I do after registration?"
+    ],
+    "answer": "After creating an account, verify your email, sign in, complete any available profile setup, and explore the features included with your plan.",
+    "keywords": [
+      "first steps",
+      "signup",
+      "registration",
+      "setup"
+    ],
+    "related_questions": [
+      "How do I verify my email?",
+      "How do I get started?",
+      "What products does Nexora AI offer?"
+    ]
+  },
+  {
+    "id": "getting_started_003",
+    "category": "Getting Started",
+    "intent": "dashboard",
+    "question": "What can I do from the dashboard?",
+    "variations": [
+      "What is available in the dashboard?",
+      "What can I access after login?",
+      "What does the Nexora dashboard contain?",
+      "What can I do after signing in?"
+    ],
+    "answer": "The dashboard provides access to the features and tools available under your account and selected plan. Available options can include productivity, automation, analytics, and support-related capabilities.",
+    "keywords": [
+      "dashboard",
+      "login",
+      "features",
+      "tools",
+      "account"
+    ],
+    "related_questions": [
+      "How do I get started?",
+      "What AI features are available?",
+      "What products does Nexora AI offer?"
+    ]
+  },
+  {
+    "id": "getting_started_004",
+    "category": "Getting Started",
+    "intent": "account_setup",
+    "question": "Do I need to complete my profile?",
+    "variations": [
+      "Is profile setup required?",
+      "Do I need to add profile information?",
+      "Should I complete my account profile?",
+      "What profile details are needed?"
+    ],
+    "answer": "Some account features may require basic profile information. Complete the available profile setup fields that are requested by the application for your account or selected service.",
+    "keywords": [
+      "profile",
+      "setup",
+      "account",
+      "information"
+    ],
+    "related_questions": [
+      "How do I create an account?",
+      "How do I update my profile?",
+      "What should I do after creating an account?"
+    ]
+  },
+  {
+    "id": "getting_started_005",
+    "category": "Getting Started",
+    "intent": "first_feature",
+    "question": "Which feature should I try first?",
+    "variations": [
+      "What should I try first?",
+      "Where should a new user begin?",
+      "Which Nexora feature is best to start with?",
+      "What feature should I use first?"
+    ],
+    "answer": "Start with the core feature that matches your goal, such as productivity tools for individual work, automation for repetitive workflows, analytics for business information, or customer support for FAQ assistance.",
+    "keywords": [
+      "first",
+      "feature",
+      "start",
+      "new user",
+      "productivity"
+    ],
+    "related_questions": [
+      "How do I get started?",
+      "What AI features are available?",
+      "What products does Nexora AI offer?"
+    ]
+  },
+  {
+    "id": "enterprise_001",
+    "category": "Enterprise",
+    "intent": "enterprise_plans",
+    "question": "Do you offer enterprise solutions?",
+    "variations": [
+      "Do you have enterprise plans?",
+      "Is Nexora AI suitable for large companies?",
+      "Can businesses use Nexora AI?",
+      "Do you support enterprise customers?"
+    ],
+    "answer": "Yes. The demonstration platform includes an Enterprise offering intended for organizations that require advanced administration, team management, higher usage, and organization-level controls.",
+    "keywords": [
+      "enterprise",
+      "business",
+      "organization",
+      "large company"
+    ],
+    "related_questions": [
+      "What pricing plans are available?",
+      "Can multiple team members use the platform?",
+      "How can I contact support?"
+    ]
+  },
+  {
+    "id": "enterprise_002",
+    "category": "Enterprise",
+    "intent": "team_access",
+    "question": "Can multiple team members use the platform?",
+    "variations": [
+      "Can my team use Nexora AI?",
+      "Can I add team members?",
+      "Does Nexora support teams?",
+      "Can multiple users share an account?"
+    ],
+    "answer": "Team-based access can be supported through organization or Enterprise features. Team members should use their own authorized accounts rather than sharing individual credentials.",
+    "keywords": [
+      "team",
+      "members",
+      "organization",
+      "users",
+      "enterprise"
+    ],
+    "related_questions": [
+      "Do you offer enterprise solutions?",
+      "Is my data secure?",
+      "How do I contact support?"
+    ]
+  },
+  {
+    "id": "enterprise_003",
+    "category": "Enterprise",
+    "intent": "enterprise_admin",
+    "question": "Does Enterprise include administration controls?",
+    "variations": [
+      "Can administrators manage users?",
+      "Does Enterprise have admin features?",
+      "Can a company control team access?",
+      "Are there organization controls?"
+    ],
+    "answer": "The demonstration Enterprise offering is intended to include organization-level administration and team-management capabilities. Exact controls depend on the configured Enterprise features.",
+    "keywords": [
+      "enterprise",
+      "admin",
+      "administration",
+      "users",
+      "controls"
+    ],
+    "related_questions": [
+      "Can multiple team members use the platform?",
+      "Do you offer enterprise solutions?",
+      "Is my data secure?"
+    ]
+  },
+  {
+    "id": "enterprise_004",
+    "category": "Enterprise",
+    "intent": "enterprise_usage",
+    "question": "Can Enterprise support higher usage requirements?",
+    "variations": [
+      "Is Enterprise suitable for high usage?",
+      "Can large teams use Nexora?",
+      "Does Enterprise provide higher limits?",
+      "Can Enterprise handle larger organizations?"
+    ],
+    "answer": "The demonstration Enterprise offering is designed for organizations with higher usage and advanced requirements. Exact usage limits depend on the configured plan.",
+    "keywords": [
+      "enterprise",
+      "usage",
+      "limits",
+      "organization",
+      "scale"
+    ],
+    "related_questions": [
+      "Do you offer enterprise solutions?",
+      "Does Enterprise include administration controls?",
+      "Can multiple team members use the platform?"
+    ]
+  },
+  {
+    "id": "enterprise_005",
+    "category": "Enterprise",
+    "intent": "enterprise_support",
+    "question": "Can enterprise customers get specialized support?",
+    "variations": [
+      "Do enterprise users get additional support?",
+      "Is enterprise support available?",
+      "Can organizations receive dedicated assistance?",
+      "What support is available for Enterprise?"
+    ],
+    "answer": "Enterprise support can provide organization-focused assistance depending on the configured service. Users should contact the support or sales channel for applicable Enterprise support details.",
+    "keywords": [
+      "enterprise",
+      "support",
+      "organization",
+      "assistance",
+      "business"
+    ],
+    "related_questions": [
+      "Do you offer enterprise solutions?",
+      "How can I contact support?",
+      "Can multiple team members use the platform?"
+    ]
+  },
+  {
+    "id": "integrations_001",
+    "category": "Integrations",
+    "intent": "available_integrations",
+    "question": "What integrations are available?",
+    "variations": [
+      "Which apps can Nexora connect to?",
+      "What tools can I connect?",
+      "What integrations does Nexora support?",
+      "Can Nexora connect to external tools?"
+    ],
+    "answer": "Available integrations can vary by product and plan. The demonstration platform supports the concept of connecting supported external tools through integrations, APIs, or automation features.",
+    "keywords": [
+      "integrations",
+      "apps",
+      "tools",
+      "connect",
+      "api"
+    ],
+    "related_questions": [
+      "Does Nexora AI support integrations?",
+      "Can I connect Nexora to another application?",
+      "Do you support APIs?"
+    ]
+  },
+  {
+    "id": "integrations_002",
+    "category": "Integrations",
+    "intent": "api_support",
+    "question": "Does Nexora AI support APIs?",
+    "variations": [
+      "Can I use a Nexora API?",
+      "Does Nexora provide an API?",
+      "Can developers integrate with Nexora?",
+      "Is API access available?"
+    ],
+    "answer": "API access can be provided depending on the product and plan. Developers should use the applicable API documentation and credentials for supported integrations.",
+    "keywords": [
+      "api",
+      "developer",
+      "integration",
+      "access",
+      "developers"
+    ],
+    "related_questions": [
+      "What integrations are available?",
+      "Can I connect Nexora to another application?",
+      "Do you offer enterprise solutions?"
+    ]
+  },
+  {
+    "id": "integrations_003",
+    "category": "Integrations",
+    "intent": "connect_application",
+    "question": "Can I connect Nexora to another application?",
+    "variations": [
+      "Can Nexora connect to other software?",
+      "How do I connect another app?",
+      "Can I integrate an external application?",
+      "Can Nexora work with other tools?"
+    ],
+    "answer": "Supported applications can be connected through available integrations, APIs, or automation capabilities. The exact connection method depends on the application and selected Nexora plan.",
+    "keywords": [
+      "connect",
+      "application",
+      "integration",
+      "software",
+      "tools"
+    ],
+    "related_questions": [
+      "What integrations are available?",
+      "Does Nexora AI support APIs?",
+      "Can Nexora AI automate tasks?"
+    ]
+  },
+  {
+    "id": "integrations_004",
+    "category": "Integrations",
+    "intent": "integration_setup",
+    "question": "How do I set up an integration?",
+    "variations": [
+      "How can I connect an integration?",
+      "What are the steps to integrate a tool?",
+      "How do I configure an external connection?",
+      "How can I add an integration?"
+    ],
+    "answer": "Open the applicable integrations or settings area, select a supported service, follow its authorization steps, and complete the configuration required by the integration.",
+    "keywords": [
+      "integration",
+      "setup",
+      "configure",
+      "connect",
+      "authorization"
+    ],
+    "related_questions": [
+      "What integrations are available?",
+      "Can I connect Nexora to another application?",
+      "Does Nexora AI support APIs?"
+    ]
+  },
+  {
+    "id": "integrations_005",
+    "category": "Integrations",
+    "intent": "integration_security",
+    "question": "Are integrations secure?",
+    "variations": [
+      "Is it safe to connect another application?",
+      "How are integrations protected?",
+      "Are connected apps secure?",
+      "What about integration security?"
+    ],
+    "answer": "Integration security depends on the supported connection method and permissions granted to the connected service. Users should review requested permissions and connect only services they trust.",
+    "keywords": [
+      "integration",
+      "security",
+      "permissions",
+      "connected apps",
+      "privacy"
+    ],
+    "related_questions": [
+      "Is my data secure?",
+      "How do I set up an integration?",
+      "Does Nexora AI support APIs?"
+    ]
+  },
+  {
+    "id": "troubleshooting_001",
+    "category": "Troubleshooting",
+    "intent": "application_not_working",
+    "question": "Why is the application not working?",
+    "variations": [
+      "The app stopped working",
+      "Why is Nexora not working?",
+      "The application is broken",
+      "Nexora is not responding"
+    ],
+    "answer": "Check your internet connection, refresh or restart the application, and verify that you are using the expected account and application version. If the issue continues, contact support with the error details.",
+    "keywords": [
+      "not working",
+      "application",
+      "error",
+      "problem",
+      "issue"
+    ],
+    "related_questions": [
+      "How can I contact support?",
+      "How do I report a bug?",
+      "What information should I provide when contacting support?"
+    ]
+  },
+  {
+    "id": "troubleshooting_002",
+    "category": "Troubleshooting",
+    "intent": "login_problem",
+    "question": "I cannot log in. What should I do?",
+    "variations": [
+      "Why can't I sign in?",
+      "Login is not working",
+      "I cannot access my account",
+      "I am unable to log in"
+    ],
+    "answer": "Check that your email and password are correct, use the password-reset option if necessary, and verify that your account email has been confirmed. Contact support if the problem remains.",
+    "keywords": [
+      "login",
+      "sign in",
+      "password",
+      "account",
+      "access"
+    ],
+    "related_questions": [
+      "How do I reset my password?",
+      "How do I verify my email?",
+      "How can I contact support?"
+    ]
+  },
+  {
+    "id": "troubleshooting_003",
+    "category": "Troubleshooting",
+    "intent": "slow_application",
+    "question": "Why is the application running slowly?",
+    "variations": [
+      "Why is Nexora slow?",
+      "The app is very slow",
+      "Nexora is taking too long",
+      "Why is the response slow?"
+    ],
+    "answer": "Slow performance can be caused by network conditions, browser or device resources, application load, or the specific operation being performed. Refresh the application and check your connection before contacting support.",
+    "keywords": [
+      "slow",
+      "performance",
+      "loading",
+      "application",
+      "response"
+    ],
+    "related_questions": [
+      "Why is the application not working?",
+      "How can I contact support?",
+      "How do I report a bug?"
+    ]
+  },
+  {
+    "id": "troubleshooting_004",
+    "category": "Troubleshooting",
+    "intent": "verification_problem",
+    "question": "What if I do not receive the verification email?",
+    "variations": [
+      "My verification email is missing",
+      "I did not get the verification email",
+      "Where is my account verification email?",
+      "Email verification is not arriving"
+    ],
+    "answer": "Check your spam or junk folder, confirm that the email address was entered correctly, and request another verification message if the option is available.",
+    "keywords": [
+      "verification",
+      "email",
+      "missing",
+      "account",
+      "signup"
+    ],
+    "related_questions": [
+      "How do I verify my email?",
+      "How do I create an account?",
+      "How can I contact support?"
+    ]
+  },
+  {
+    "id": "troubleshooting_005",
+    "category": "Troubleshooting",
+    "intent": "error_message",
+    "question": "What should I do when I see an error message?",
+    "variations": [
+      "How do I handle an application error?",
+      "I received an error",
+      "What if Nexora shows an error?",
+      "How should I report an error?"
+    ],
+    "answer": "Record the exact error message, note what action caused it, and try the basic troubleshooting steps such as refreshing or restarting the application. If it continues, provide these details to support.",
+    "keywords": [
+      "error",
+      "message",
+      "troubleshooting",
+      "support",
+      "problem"
+    ],
+    "related_questions": [
+      "How do I report a bug?",
+      "How can I contact support?",
+      "My application is not working."
+    ]
+  },
+  {
+    "id": "privacy_001",
+    "category": "Privacy",
+    "intent": "privacy_policy",
+    "question": "Where can I learn about Nexora AI privacy practices?",
+    "variations": [
+      "Where is the privacy information?",
+      "How can I read the privacy policy?",
+      "Where can I find privacy details?",
+      "Tell me about your privacy policy"
+    ],
+    "answer": "Privacy information should be reviewed in the applicable privacy documentation provided with the service. Because Nexora AI is a fictional demonstration project, this implementation does not represent a real company's legal privacy policy.",
+    "keywords": [
+      "privacy",
+      "policy",
+      "personal data",
+      "information"
+    ],
+    "related_questions": [
+      "How is my personal information handled?",
+      "Is my data secure?",
+      "Can I delete my account?"
+    ]
+  },
+  {
+    "id": "privacy_002",
+    "category": "Privacy",
+    "intent": "delete_data",
+    "question": "Can I request deletion of my data?",
+    "variations": [
+      "Can my data be deleted?",
+      "How do I remove my personal data?",
+      "Can I request data deletion?",
+      "How can I delete my information?"
+    ],
+    "answer": "Data deletion requests can be handled through the account settings or applicable support process. Review the relevant privacy information before requesting deletion because some information may be retained where required.",
+    "keywords": [
+      "delete",
+      "data",
+      "privacy",
+      "personal information",
+      "removal"
+    ],
+    "related_questions": [
+      "How do I delete my account?",
+      "How is my personal information handled?",
+      "Where can I learn about privacy practices?"
+    ]
+  },
+  {
+    "id": "privacy_003",
+    "category": "Privacy",
+    "intent": "data_collection",
+    "question": "What personal information may be collected?",
+    "variations": [
+      "What information does Nexora collect?",
+      "What user data is collected?",
+      "Which personal details are needed?",
+      "What data do you store?"
+    ],
+    "answer": "The demonstration account flow may use basic information required for account and service functions. Users should review the applicable privacy documentation for the exact information collected by a real implementation.",
+    "keywords": [
+      "data",
+      "collection",
+      "personal information",
+      "privacy",
+      "user data"
+    ],
+    "related_questions": [
+      "How is my personal information handled?",
+      "Can I request deletion of my data?",
+      "Where can I learn about privacy practices?"
+    ]
+  },
+  {
+    "id": "privacy_004",
+    "category": "Privacy",
+    "intent": "data_sharing",
+    "question": "Is my personal information shared with other services?",
+    "variations": [
+      "Do you share user data?",
+      "Is my information shared?",
+      "Who can access my personal data?",
+      "Can third parties access my information?"
+    ],
+    "answer": "Information sharing depends on the services and integrations used by an implementation. Users should review applicable privacy documentation and integration permissions before connecting external services.",
+    "keywords": [
+      "privacy",
+      "sharing",
+      "data",
+      "third party",
+      "information"
+    ],
+    "related_questions": [
+      "How is my personal information handled?",
+      "Are integrations secure?",
+      "Can I request deletion of my data?"
+    ]
+  },
+  {
+    "id": "privacy_005",
+    "category": "Privacy",
+    "intent": "privacy_sensitive_data",
+    "question": "Should I enter sensitive personal information?",
+    "variations": [
+      "Can I enter confidential information?",
+      "Should I share sensitive data?",
+      "Is it safe to provide sensitive information?",
+      "What information should I avoid sharing?"
+    ],
+    "answer": "Avoid entering sensitive personal, financial, authentication, or confidential information unless the specific service explicitly requires and protects it. Review the applicable privacy and security documentation before sharing sensitive data.",
+    "keywords": [
+      "sensitive",
+      "personal data",
+      "privacy",
+      "confidential",
+      "security"
+    ],
+    "related_questions": [
+      "Is my data secure?",
+      "How is my personal information handled?",
+      "Where can I learn about privacy practices?"
+    ]
+  }
+]
